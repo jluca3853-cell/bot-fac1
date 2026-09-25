@@ -6,9 +6,10 @@ const {
     ButtonStyle
 } = require("discord.js");
 
+
 const {
     getConfig
-} = require("../database/database");
+} = require("./database");
 
 module.exports = {
 
